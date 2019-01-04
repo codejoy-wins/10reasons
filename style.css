@@ -1,0 +1,29 @@
+#list{
+    font-family: 'Libre Baskerville', serif;
+    line-height: 8ch;
+    overflow: auto;
+    height: 700px;
+
+}
+body{
+    background-image: url(./images/g.jpg);
+    background-size: cover;
+}
+
+#rapper{
+    margin: 0 auto;
+    /* text-align: center; */
+}
+
+#head1{
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+
+}
+ /* REALLY PISSED A HOVER NOT WORKING */
+a{
+    color: rgb(87, 87, 173);
+    text-decoration: none;
+    text-decoration-color: none;
+}
+/* I fucking hate css.  It's not listening to anything I say. I don't understand how the css code is interpreted because I don't know what goes on top and it makes no sense to me to have  to say the path of what I want to style.  If I say li it should change the fucking list item!  Why do you need the path? */
