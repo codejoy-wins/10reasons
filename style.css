@@ -26,4 +26,11 @@ a{
     text-decoration: none;
     text-decoration-color: none;
 }
+
+#footer{
+    background-color:rgba(0, 0, 0, 0.399);
+    padding: none;
+    text-align: center;
+    /* padding-left: none; */
+}
 /* I fucking hate css.  It's not listening to anything I say. I don't understand how the css code is interpreted because I don't know what goes on top and it makes no sense to me to have  to say the path of what I want to style.  If I say li it should change the fucking list item!  Why do you need the path? */
